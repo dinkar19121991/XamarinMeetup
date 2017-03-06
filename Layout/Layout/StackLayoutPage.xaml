@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	x:Class="Layout.StackLayoutPage" Icon="Stack.png" Title="StackLayoutPage" Padding="0">
+	<ContentPage.Content >
+		<StackLayout Orientation="Vertical" >
+		<StackLayout Orientation="Horizontal" Padding="20,20,20,20">
+			<Label Text="Left"  Margin="20,20,20,20"/>
+			<Label Text="Center"  Margin="20,20,20,20"/>
+			<Label Text="Right"  Margin="20,20,20,20"/>
+		</StackLayout>
+		<StackLayout Orientation="Vertical" Padding="20,20,20,20" VerticalOptions="FillAndExpand">
+			<Label Text="Top Left" HorizontalOptions="Start" VerticalOptions="StartAndExpand" Margin="20,20,20,20"/>
+			<Label Text="Center" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Margin="20,20,20,20"/>
+			<Label Text="Bottom Right" HorizontalOptions="End" VerticalOptions="EndAndExpand" Margin="20,20,20,20"/>
+		</StackLayout>
+			</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

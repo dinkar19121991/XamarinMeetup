@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{123EF0D3-D4BD-4779-A2B7-435D71009769}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../hello/Droid/MainActivity.cs">
+    <Files>
+      <File FileName="../TabbedPage/TabbedPageDemo/TabbedPageDemo/MainPage.xaml.cs" Line="3" Column="25" />
+      <File FileName="../hello/iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="../hello/iOS/Entitlements.plist" />
+      <File FileName="../hello/iOS/Info.plist" />
+      <File FileName="../hello/Droid/MainActivity.cs" Line="13" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PushPopPage.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6BFBAEC1-CC69-4490-A85A-B4521E86871F" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PushPopPage.Droid PreferredExecutionTarget="Android.192.168.56.101:5555" />
+</Properties>
